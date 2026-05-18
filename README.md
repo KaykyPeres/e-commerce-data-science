@@ -1,19 +1,19 @@
-1: Sazonalidade e Picos de Venda: Quais meses ou trimestres apresentam o maior volume de vendas e como isso impacta a necessidade de estoque?
+Pergunta 1: Sazonalidade e Picos de Venda - Quais meses ou trimestres apresentam o maior volume de vendas e como isso impacta a necessidade de estoque?
 
-2:Rentabilidade por Categoria: Qual categoria de produto gera a maior margem de lucro real, e não apenas o maior volume de faturamento?
+Pergunta 2: Preferência de Métodos de Pagamento - Quais métodos de pagamento predominam em cada região e como isso pode influenciar estratégias comerciais?
 
-3:Eficiência Logística: Existe uma correlação significativa entre o modo de envio (Shipping Mode) e o índice de devoluções ou atrasos?
+Pergunta 3: Geografia do Lucro - Quais regiões ou países apresentam prejuízo operacional apesar de um alto volume de vendas?
 
-4:Geografia do Lucro: Quais regiões ou países apresentam prejuízo operacional apesar de um alto volume de vendas?
+Pergunta 4: Análise Logística Regional - Quais regiões apresentam melhor relação entre custo logístico e rentabilidade?
 
-5:Fidelização (LTV): Qual o perfil dos clientes recorrentes e quanto eles representam no faturamento total em comparação a clientes de compra única?
+Pergunta 5: Previsão de Demanda - É possível identificar uma tendência de crescimento para categorias específicas que justifiquem investimentos em Marketing no próximo semestre?
 
-6:Impacto de Descontos: O uso de descontos agressivos realmente aumenta o lucro total ou apenas o volume de vendas, prejudicando a margem?
+Pergunta 6: Performance de Vendas - Qual categoria possui maior volume de vendas ao longo do período?
 
-7:Análise de Ticket Médio: Como o ticket médio varia entre os diferentes segmentos de mercado (Consumer, Corporate, Home Office)?
+Pergunta 7: Países mais Lucrativos - Quais países apresentam os maiores lucros operacionais?
 
-8:Produtos sem Lucro: Quais produtos têm baixa performance persistente e deveriam ser descontinuados para reduzir custos de armazenagem?
+Pergunta 8: Rentabilidade Regional - Qual região apresenta maior lucro médio?
 
-9:Tempo de Processamento: Qual a média de dias entre a data do pedido e o envio, e como isso varia por região?
+Pergunta 9:Distribuição Regional de Vendas - Qual região apresenta a melhor relação entre custo de frete e lucro?
 
-10: Previsão de Demanda: É possível identificar uma tendência de crescimento para categorias específicas que justifique investimentos em marketing no próximo semestre?
+Pergunta 10: Estabilidade de Mercado - Quais países apresentam os menores lucros operacionais?
